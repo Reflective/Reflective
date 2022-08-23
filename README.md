@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on:
 procedurally generated content for gameplay elements within the unreal engine.
 - 🌱 I’m currently learning :
-Data aggregation, analysis, and visualization using Elasticsearch, and Kibana.
+Data aggregation, analysis, and visualization using Elasticsearch and Kibana.
 - 📫 How to reach me:
 Brandon@brandonpoll.com
 
